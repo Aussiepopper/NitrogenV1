@@ -1,6 +1,0 @@
-Devoleped by aussiepopper
-
-Exract from zip
-download python
-run main.py
-coppy codes from output.txt
